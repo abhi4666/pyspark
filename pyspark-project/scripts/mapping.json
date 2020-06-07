@@ -1,0 +1,16 @@
+[
+  {
+    "Table_A": {
+      "FileA": "Col1,Col2,Col3",
+      "FileB": "Col1A,Col1B,ColC"
+    },
+    "Table_B": {
+      "FileA1": "Col1A1,Col2B1,Col3C",
+      "FileB1": "ColB11,ColB22,ColB33"
+    },
+     "Table_C": {
+       "FileA1": "ColC1,ColC3,ColC3",
+       "FileB1": "ColC11,ColC22,ColC33"
+     }
+  }
+]

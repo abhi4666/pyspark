@@ -1,0 +1,8 @@
+[
+  {
+    "hdfs_src_path": "/pathhdfs",
+    "content_type": "application",
+    "insert_mode": "OVERWRITE,",
+    "targetDB":"DB_NAME"
+  }
+]
